@@ -154,12 +154,14 @@ a {
 
 ul {
   list-style-type: none;
+  display:inline;
 }
 
 .biopic {
   float: left;
   padding: 10px;
   width: 200px;
+  border-radius: 45px;
   display: none;
 }
 
